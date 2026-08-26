@@ -1,0 +1,1 @@
+{"task_id":"task_001","category":"bug-fixing","language":"python","description":"Fix an off-by-one counter.","required_tools":["read_file","inspect_test_results"],"timeout_seconds":30,"expected_output":"counter=3"}

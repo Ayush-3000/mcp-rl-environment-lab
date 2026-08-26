@@ -1,0 +1,1 @@
+{"task_id":"task_002","category":"feature","language":"python","description":"Add input validation to a parser.","required_tools":["read_file","search_code"],"timeout_seconds":30,"expected_output":"validated=true"}

@@ -1,0 +1,1 @@
+{"task_id":"task_007","category":"refactoring","language":"typescript","description":"Separate command parsing from execution.","required_tools":["search_code","list_directory"],"timeout_seconds":45,"expected_output":"commands=separated"}

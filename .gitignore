@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.task-workspace/
+.pytest-task/
+node_modules/
+dist/

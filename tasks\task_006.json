@@ -1,0 +1,1 @@
+{"task_id":"task_006","category":"feature","language":"typescript","description":"Add a bounded retry policy.","required_tools":["read_file","read_documentation"],"timeout_seconds":45,"expected_output":"retries=bounded"}

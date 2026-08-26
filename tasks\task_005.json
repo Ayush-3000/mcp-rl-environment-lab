@@ -1,0 +1,1 @@
+{"task_id":"task_005","category":"bug-fixing","language":"typescript","description":"Preserve zero in a defaulting expression.","required_tools":["read_file","inspect_test_results"],"timeout_seconds":30,"expected_output":"zero=preserved"}

@@ -1,0 +1,1 @@
+{"task_id":"task_003","category":"refactoring","language":"python","description":"Extract duplicate normalization logic.","required_tools":["search_code","read_file"],"timeout_seconds":45,"expected_output":"normalizer=shared"}

@@ -1,0 +1,1 @@
+{"task_id":"task_008","category":"performance","language":"typescript","description":"Cache parsed configuration within one request.","required_tools":["read_file","inspect_test_results"],"timeout_seconds":45,"expected_output":"config=cached"}
